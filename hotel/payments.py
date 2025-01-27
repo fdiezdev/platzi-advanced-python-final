@@ -1,0 +1,1 @@
+# Pagos: Procesamiento de pagos de las reservas de forma asincrónica.
